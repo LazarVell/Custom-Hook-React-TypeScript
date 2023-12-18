@@ -1,6 +1,6 @@
 # React Typescript UseFormatted Hook
 
-<h2><b>Objective</b></h2> - This hook was made as part of a job interview for a great company that I hope I will have a chance to work with! The objective of this task was to create a mini-library project that could be used as a custom hook with various sorting capabilities.
+<h2><b>Objective</b></h2> - This hook was made as part of a job interview for a great company! The objective of this task was to create a mini-library project that could be used as a custom hook with various sorting capabilities.
   
 <h2><b>How I did it</b></h2> - Most of the logic is inside the UseFormatted component. Each of the sorting functions will trigger a state update, ensuring that they can be chained and rely on the results of the previous action. I also wrote some CSS and a test for the app.
 
